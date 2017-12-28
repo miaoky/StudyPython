@@ -55,3 +55,11 @@ print(practiceList1)
 # 列表排序
 practiceList1.sort()
 print(practiceList1)
+
+# 复制列表
+copyList=practiceList2.copy()
+print(copyList)
+
+# 清空列表
+copyList.clear()
+print(copyList)
